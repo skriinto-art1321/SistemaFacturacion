@@ -1,9 +1,17 @@
 # SistemaFacturacion
 
-Proyecto desarrollado en Java.
+Sistema de gestión de clientes, productos y emisión de comprobantes.
 
-Módulos:
+## Objetivo
+Permitir registrar clientes, productos y generar boletas o facturas.
+
+## Módulos
 - Clientes
 - Productos
 - Ventas
 - Reportes
+
+## Tecnologías
+- Java
+- Git
+- GitHub
