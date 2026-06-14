@@ -1,4 +1,8 @@
+package service;
+
 import java.util.List;
+import model.Producto;
+import repository.ProductoRepository;
 
 public class ProductoService {
 

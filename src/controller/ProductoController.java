@@ -1,4 +1,8 @@
+package controller;
+
 import java.util.List;
+import model.Producto;
+import service.ProductoService;
 
 public class ProductoController {
 
